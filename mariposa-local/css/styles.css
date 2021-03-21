@@ -1,3 +1,8 @@
+.container-fluid {
+	background-color: #BA2CE3;
+}
+
+
 .logo {
 	
 	display: block;
@@ -8,6 +13,10 @@
 
 .title-text {
 	font-family: 'Roboto Condensed', sans-serif;
-	
-	
+	color: #FFFFFF;
 }
+
+.navbar {
+	background-color: #FFC0E3;
+}
+
